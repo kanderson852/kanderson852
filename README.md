@@ -62,7 +62,7 @@
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=pink
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
 
-[atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=white
+[atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=dark-pink
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
 [heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
