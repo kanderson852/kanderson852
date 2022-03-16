@@ -1,5 +1,7 @@
 ### Hi there, my name is Kelly! 
+
   I am a curious, lateral thinking software developer who is passionate about lifelong learning, working in diverse and inclusive teams, and having a purposeful career in software development. My journey to transition into this career started in October 2021 when I enrolled in Turing School's Back end engineering program. 
+  
   Besides software my I like to spend my time doing yoga, reading, and taking my mini dachshund Rusko to the dog park or on a (easy) hike! Feel free to look at my work, and reach out at kean9528@colorado.edu or connect on LinkedIn https://www.linkedin.com/in/kelly-anderson-588090218/
   
  ## My Technical Skills
@@ -51,14 +53,14 @@
 [github-follow-badge]: https://img.shields.io/github/followers/kanderson852?label=kanderson852&style=social
 
 
-[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=blue
+[rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
 
-[ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=white
-[sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=white
-[html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=white
-[css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=white
-[js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=white
-[active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white
+[ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=pink
+[sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=pink
+[html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=pink
+[css-badge]: https://img.shields.io/badge/css3-345d3c.svg?&style=for-the-badge&logo=css3&logoColor=pink
+[js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=pink
+[active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
 
 [atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=white
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
