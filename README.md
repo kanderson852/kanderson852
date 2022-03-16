@@ -1,6 +1,6 @@
 ### Hi there, my name is Kelly! 
 
-  I am a curious, lateral thinking software developer who is passionate about lifelong learning, working in diverse and inclusive teams, and having a purposeful career in software development. My journey to transition into this career started in October 2021 when I enrolled in Turing School's Back end engineering program. 
+  My pronouns are she/her. I am a curious, lateral thinking software developer who is passionate about lifelong learning, working in diverse and inclusive teams, and having a purposeful career in software development. My journey to transition into this career started in October 2021 when I enrolled in Turing School's Back end engineering program. 
   
   Besides software my I like to spend my time doing yoga, reading, and taking my mini dachshund Rusko to the dog park or on a (easy) hike! Feel free to look at my work, and reach out at kean9528@colorado.edu or connect on LinkedIn https://www.linkedin.com/in/kelly-anderson-588090218/
   
@@ -63,16 +63,16 @@
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
 
 [atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=magenta
-[git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=white
-[github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=white
-[heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=white
-[hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=for-the-badge&logo=hound&logoColor=white
-[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=white
-[postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=white
-[postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=for-the-badge&logo=postman&logoColor=white
-[slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=for-the-badge&logo=slack&logoColor=white
-[travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=white
-[circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=white
+[git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=magenta
+[github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=magenta
+[heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=magenta
+[hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=for-the-badge&logo=hound&logoColor=magenta
+[postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=magenta
+[postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=magenta
+[postman-badge]: https://img.shields.io/badge/Postman-345d3c.svg?&style=for-the-badge&logo=postman&logoColor=magenta
+[slack-badge]: https://img.shields.io/badge/Slack-345d3c.svg?&style=for-the-badge&logo=slack&logoColor=magenta
+[travis-ci-badge]: https://img.shields.io/badge/travis--ci-345d3c.svg?&style=for-the-badge&logo=travis&logoColor=magenta
+[circle-ci-badge]: https://img.shields.io/badge/CircleCI-345d3c.svg?&style=for-the-badge&logo=circleci&logoColor=magenta
 
 [retool-badge]: https://img.shields.io/badge/Retool-345d3c.svg?&style=for-the-badge&logo=retool&logoColor=white
 
