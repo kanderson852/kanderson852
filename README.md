@@ -14,6 +14,7 @@
 ![HTML][html-badge]
 ![CSS][css-badge]
 ![JavaScript][js-badge]
+![C#][c#-badge]
 
 ### 🛠 &nbsp; Tools
 
