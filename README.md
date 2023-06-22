@@ -7,6 +7,9 @@
  ## My Technical Skills
 
 ### 🏗 &nbsp; Frameworks & Languages
+![C Sharp][cs-badge]
+![Dotnet][dotnet-badge]
+![Angular][angular-badge]
 ![RubyOnRails][rails-badge]
 ![Ruby][ruby-badge]
 ![SQL][sql-badge]
@@ -17,16 +20,14 @@
 
 
 ### 🛠 &nbsp; Tools
-
-![Atom][atom-badge]
 ![Git][git-badge]
 ![GitHub][github-badge]
-![Heroku][heroku-badge]
 ![PostgreSQL][postgresql-badge]
-![Postico][postico-badge]
+![SQLServer][sqlserver-badge]
 ![Postman][postman-badge]
 ![Slack][slack-badge]
 ![circle-ci][circle-ci-badge]
+
 
 
 ### 💎 &nbsp; Ruby Gems
@@ -55,7 +56,9 @@
 
 
 [rails-badge]: https://img.shields.io/badge/Ruby%20on%20Rails-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
-
+[cs-badge]: https://img.shields.io/badge/CS-345d3c.svg?&style=for-the-badge&logo=csharp&logoColor=pink
+[angular-badge]: https://img.shields.io/badge/Angular-345d3c.svg?&style=for-the-badge&logo=angular&logoColor=pink
+[dotnet-badge]: https://img.shields.io/badge/Dotnet-345d3c.svg?&style=for-the-badge&logo=dotnet&logoColor=pink
 [ruby-badge]: https://img.shields.io/badge/ruby-345d3c.svg?&style=for-the-badge&logo=ruby&logoColor=pink
 [sql-badge]: https://img.shields.io/badge/SQL-345d3c.svg?style=for-the-badge&logo=SQL&logoColor=pink
 [html-badge]: https://img.shields.io/badge/html5-345d3c.svg?&style=for-the-badge&logo=html5&logoColor=pink
@@ -63,10 +66,9 @@
 [js-badge]: https://img.shields.io/badge/JavaScript-345d3c.svg?&style=for-the-badge&logo=javascript&logoColor=pink
 [active-record-badge]: https://img.shields.io/badge/ActiveRecord-345d3c.svg?&style=for-the-badge&logo=rubyonrails&logoColor=pink
 
-[atom-badge]: https://img.shields.io/badge/Atom-345d3c.svg?&style=for-the-badge&logo=atom&logoColor=magenta
 [git-badge]: https://img.shields.io/badge/git-345d3c.svg?&style=for-the-badge&logo=git&logoColor=magenta
+[sqlserver-badge]: https://img.shields.io/badge/Sqlserver-345d3c.svg?&style=for-the-badge&logo=sqlserver&logoColor=magenta
 [github-badge]: https://img.shields.io/badge/GitHub-345d3c.svg?&style=for-the-badge&logo=github&logoColor=magenta
-[heroku-badge]: https://img.shields.io/badge/Heroku-345d3c.svg?&style=for-the-badge&logo=heroku&logoColor=magenta
 [hound-badge]: https://img.shields.io/badge/hound-345d3c.svg?&style=for-the-badge&logo=hound&logoColor=magenta
 [postgresql-badge]: https://img.shields.io/badge/PostgreSQL-345d3c.svg?&style=for-the-badge&logo=postgresql&logoColor=magenta
 [postico-badge]: https://img.shields.io/badge/postico-345d3c.svg?&style=for-the-badge&logo=Postico&logoColor=magenta
