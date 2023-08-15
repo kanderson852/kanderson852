@@ -1,6 +1,6 @@
-### Hi there, my name is Kelly! 
+### Hi I'm Kelly! 
 
-  My pronouns are she/her. I am a curious, lateral thinking software developer who is passionate about lifelong learning, working in diverse and inclusive teams, and having a purposeful career in software development. My journey to transition into this career started in October 2021 when I enrolled in Turing School's Back end engineering program. 
+  She/her. I am a curious, industrious software developer who is passionate about lifelong learning, working in diverse and inclusive teams, and having a purposeful career in software development. My journey to transition into this career started in October 2021 when I enrolled in Turing School's Back end engineering program. 
   
   Besides software my I like to spend my time doing yoga, reading, and taking my mini dachshund Rusko to the dog park or on a (easy) hike! Feel free to look at my work, and reach out at kean9528@colorado.edu or connect on LinkedIn https://www.linkedin.com/in/kelly-anderson-588090218/
   
